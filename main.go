@@ -18,7 +18,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/chakkritu/"
+	"github.com/line/line-bot-sdk-go/linebot"
 )
 
 var bot *linebot.Client
