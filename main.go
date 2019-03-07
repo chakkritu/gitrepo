@@ -18,7 +18,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/chakkritu"
+	"github.com/chakkritu/"
 )
 
 var bot *linebot.Client
