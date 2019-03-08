@@ -46,39 +46,4 @@ It all done.
 
 ### Video Tutorial:
 
-- [How to deploy LineBotTemplate](https://www.youtube.com/watch?v=xpP51Kwuy2U)
-- [Hoe to modify your LineBotTemplate code](https://www.youtube.com/watch?v=ckij73sIRik)
-
-
-### Chinese Tutorial:
-
-如果你看得懂繁體中文，這裡有[中文的介紹](http://www.evanlin.com/create-your-line-bot-golang/) 
-
-Inspired By
-=============
-
-- [Golang (heroku) で LINE Bot 作ってみる](http://qiita.com/dongri/items/ba150f04a98e96b160e7)
-- [LINE BOT をとりあえずタダで Heroku で動かす](http://qiita.com/yuya_takeyama/items/0660a59d13e2cd0b2516)
-- [阿美語萌典 BOT](https://github.com/miaoski/amis-linebot)
-
-Project52
----------------
-
-It is one of my [project 52](https://github.com/kkdai/project52).
-
-
-License
----------------
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
+- 
